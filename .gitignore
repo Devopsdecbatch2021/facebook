@@ -1,0 +1,5 @@
+#ignoring the file
+.classpath
+.setting
+#ignoring the directories
+node_modules
